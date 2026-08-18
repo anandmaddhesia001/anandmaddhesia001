@@ -33,16 +33,10 @@ I'm a **Computer Science & Engineering student specializing in AI/ML** who enjoy
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
-### AI / ML
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,flask,sklearn" />
-</p>
-
 ### Tools & Deployment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vercel,render" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,render" />
 </p>
 
 ---
@@ -137,13 +131,13 @@ I regularly practice **Data Structures & Algorithms** and focus on developing st
 ## 🤝 Let's Connect
 
 <p>
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/anand-kumar-maddheshiya-326923294)">
+  <a href="https://www.linkedin.com/in/anand-kumar-maddheshiya">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="[https://leetcode.com/](https://leetcode.com/u/anand_kumar11/)">
+  <a href="https://leetcode.com/u/anand_kumar11/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="mailto:anandkumar31856@gmail.com">
+  <a href="anandkumar31856@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
